@@ -1,2 +1,2 @@
 # project-test
-![taxi image](https://prntscr.com/1hbpihy)
+![taxi](https://prnt.sc/1haow7n)
